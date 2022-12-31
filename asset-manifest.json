@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/farewell-2022/static/css/main.8b965ce1.css",
+    "main.js": "/farewell-2022/static/js/main.a75ff214.js",
+    "static/media/my-color-palette.png": "/farewell-2022/static/media/my-color-palette.9e97fa84823bdf9e3071.png",
+    "static/media/my-dashboard.png": "/farewell-2022/static/media/my-dashboard.0d42cf7e33c4a903cac4.png",
+    "static/media/my-editor.png": "/farewell-2022/static/media/my-editor.88db2d2f5c19546781b1.png",
+    "static/media/my-form-builder.png": "/farewell-2022/static/media/my-form-builder.105786867058a5caa3a2.png",
+    "static/media/my-audio-player.png": "/farewell-2022/static/media/my-audio-player.495be949537bce727d4d.png",
+    "static/media/my-sticker.png": "/farewell-2022/static/media/my-sticker.13d3518cf37661530fcc.png",
+    "static/media/my-voca.png": "/farewell-2022/static/media/my-voca.1a06ddbe5aa98bfdffba.png",
+    "index.html": "/farewell-2022/index.html",
+    "main.8b965ce1.css.map": "/farewell-2022/static/css/main.8b965ce1.css.map",
+    "main.a75ff214.js.map": "/farewell-2022/static/js/main.a75ff214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b965ce1.css",
+    "static/js/main.a75ff214.js"
+  ]
+}
